@@ -1,0 +1,2 @@
+PIL - Python Image Library
+Matplotlib - pyplot function to display input image and visualize the results
